@@ -1,11 +1,11 @@
 import pygame 
-from support import import_csv_layout, import_cut_graphics
-from settings import tile_size, screen_height, screen_width
-from tiles import Tile, StaticTile, Crate, Coin, Palm
-from enemy import Enemy
+from suporte import import_csv_layout, import_cut_graphics
+from configuracoes import tile_size, screen_height, screen_width
+from terreno import Tile, StaticTile, Crate, Coin, Palm
+from inimigo import Enemy
 from decoration import Sky, Water, Clouds
-from player import Player
-from particles import ParticleEffect
+from pirata import Player
+from particulas import ParticleEffect
 
 class Level:
 	def __init__(self,level_data,surface):
@@ -48,7 +48,7 @@ class Level:
 		bg_palm_layout = import_csv_layout(level_data['bg palms'])
 		self.bg_palm_sprites = self.create_tile_group(bg_palm_layout,'bg palms')
 
-		# enemy 
+		# inimigo
 		enemy_layout = import_csv_layout(level_data['enemies'])
 		self.enemy_sprites = self.create_tile_group(enemy_layout,'enemies')
 
@@ -72,12 +72,12 @@ class Level:
 					y = row_index * tile_size
 
 					if type == 'terrain':
-						terrain_tile_list = import_cut_graphics('../graphics/terrain/terrain_tiles.png')
+						terrain_tile_list = import_cut_graphics('../graf/terrain/terrain_tiles.png')
 						tile_surface = terrain_tile_list[int(val)]
 						sprite = StaticTile(tile_size,x,y,tile_surface)
 						
 					if type == 'grass':
-						grass_tile_list = import_cut_graphics('../graphics/decoration/grass/grass.png')
+						grass_tile_list = import_cut_graphics('../graf/decoration/grass/grass.png')
 						tile_surface = grass_tile_list[int(val)]
 						sprite = StaticTile(tile_size,x,y,tile_surface)
 					
@@ -85,15 +85,15 @@ class Level:
 						sprite = Crate(tile_size,x,y)
 
 					if type == 'coins':
-						if val == '0': sprite = Coin(tile_size,x,y,'../graphics/coins/gold')
-						if val == '1': sprite = Coin(tile_size,x,y,'../graphics/coins/silver')
+						if val == '0': sprite = Coin(tile_size, x, y, '../graf/coins/gold')
+						if val == '1': sprite = Coin(tile_size, x, y, '../graf/coins/silver')
 
 					if type == 'fg palms':
-						if val == '0': sprite = Palm(tile_size,x,y,'../graphics/terrain/palm_small',38)
-						if val == '1': sprite = Palm(tile_size,x,y,'../graphics/terrain/palm_large',64)
+						if val == '0': sprite = Palm(tile_size, x, y, '../graf/terrain/palm_small', 38)
+						if val == '1': sprite = Palm(tile_size, x, y, '../graf/terrain/palm_large', 64)
 
 					if type == 'bg palms':
-						sprite = Palm(tile_size,x,y,'../graphics/terrain/palm_bg',64)
+						sprite = Palm(tile_size, x, y, '../graf/terrain/palm_bg', 64)
 
 					if type == 'enemies':
 						sprite = Enemy(tile_size,x,y)
@@ -114,7 +114,7 @@ class Level:
 					sprite = Player((x,y),self.display_surface,self.create_jump_particles)
 					self.player.add(sprite)
 				if val == '1':
-					hat_surface = pygame.image.load('../graphics/character/hat.png').convert_alpha()
+					hat_surface = pygame.image.load('../graf/character/hat.png').convert_alpha()
 					sprite = StaticTile(tile_size,x,y,hat_surface)
 					self.goal.add(sprite)
 
@@ -217,7 +217,7 @@ class Level:
 		self.terrain_sprites.update(self.world_shift)
 		self.terrain_sprites.draw(self.display_surface)
 		
-		# enemy 
+		# inimigo
 		self.enemy_sprites.update(self.world_shift)
 		self.constraint_sprites.update(self.world_shift)
 		self.enemy_collision_reverse()

@@ -1,5 +1,9 @@
-import pygame 
-from support import import_folder
+# developers: WALTER DOS SANTOS
+#			  FREDSON BANDEIRA
+# REFERRENCIA: https://github.com/Walterwcms/Shooter-main
+
+import pygame
+from suporte import import_folder
 
 class Player(pygame.sprite.Sprite):
 	def __init__(self,pos,surface,create_jump_particles):
@@ -32,7 +36,7 @@ class Player(pygame.sprite.Sprite):
 		self.on_right = False
 
 	def import_character_assets(self):
-		character_path = '../graphics/character/'
+		character_path = '../graf/character/'
 		self.animations = {'idle':[],'run':[],'jump':[],'fall':[]}
 
 		for animation in self.animations.keys():
@@ -40,7 +44,7 @@ class Player(pygame.sprite.Sprite):
 			self.animations[animation] = import_folder(full_path)
 
 	def import_dust_run_particles(self):
-		self.dust_run_particles = import_folder('../graphics/character/dust_particles/run')
+		self.dust_run_particles = import_folder('../graf/character/dust_particles/run')
 
 	def animate(self):
 		animation = self.animations[self.status]

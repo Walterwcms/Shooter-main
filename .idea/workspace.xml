@@ -4,7 +4,117 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e734b2-0e73-47f7-a6b0-bb8e0d603320" name="Changes" comment="" />
+    <list default="true" id="41e734b2-0e73-47f7-a6b0-bb8e0d603320" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/decoration.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/decoration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/game_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/particles.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/particles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/code/tiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/code/tiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/jump/jump_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/jump/jump_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/land/land_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/land/land_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/land/land_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/land/land_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/land/land_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/land/land_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/land/land_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/land/land_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/land/land_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/land/land_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/run/run_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/run/run_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/run/run_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/run/run_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/run/run_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/run/run_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/run/run_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/run/run_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/dust_particles/run/run_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/dust_particles/run/run_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/fall/fall.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/fall/fall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/hat.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/hat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/idle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/idle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/idle/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/idle/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/jump/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/jump/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/jump/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/jump/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/jump/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/jump/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/character/run/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/character/run/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/coin_tiles.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/coin_tiles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/gold/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/gold/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/gold/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/gold/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/gold/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/gold/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/gold/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/gold/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/silver/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/silver/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/silver/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/silver/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/silver/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/silver/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/coins/silver/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/coins/silver/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/clouds/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/clouds/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/clouds/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/clouds/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/clouds/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/clouds/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/grass/grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/grass/grass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/sky/sky_bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/sky/sky_bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/sky/sky_middle.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/sky/sky_middle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/sky/sky_top.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/sky/sky_top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/water/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/water/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/water/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/water/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/water/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/water/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/decoration/water/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/decoration/water/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/explosion/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/explosion/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/run/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/run/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/enemy/setup_tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/enemy/setup_tile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/crate.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/crate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_bg/bg_palm_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_bg/bg_palm_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_bg/bg_palm_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_bg/bg_palm_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_bg/bg_palm_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_bg/bg_palm_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_bg/bg_palm_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_bg/bg_palm_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_large/large_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_large/large_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_large/large_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_large/large_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_large/large_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_large/large_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_large/large_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_large/large_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_small/small_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_small/small_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_small/small_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_small/small_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_small/small_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_small/small_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/palm_small/small_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/palm_small/small_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/graphics/terrain/terrain_tiles.png" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/grafico/terrain/terrain_tiles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_bg_palms.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_bg_palms.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_coins.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_coins.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_constraints.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_constraints.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_crates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_crates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_enemies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_enemies.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_fg_palms.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_fg_palms.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_grass.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_grass.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_player.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_player.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/0/level_0_terrain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/0/level_0_terrain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/level_data/level_0.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/level_data/level_0.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/coin_tiles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/coin_tiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/crates.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/crates.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/enemy_tiles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/enemy_tiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/grass_tiles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/grass_tiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/palms.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/palms.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/player_tiles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/player_tiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atualizacaoCode/levels/tilesets/terrain_tiles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atualizacaoCode/niveis/tilesets/terrain_tiles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/support.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +127,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/code/level.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/code/settings.py" root0="SKIP_INSPECTION" />
@@ -26,17 +139,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2L6fjqbFBjIiqLdq0CT356EWnTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/computerwork/Music/Shooter-main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/computerwork/Music/Shooter-main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
