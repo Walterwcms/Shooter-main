@@ -1,3 +1,7 @@
+
+# Created by: Walter dos Santos e Fredson Bandeira
+# Atualizacao, referencia: https://youtu.be/KJpP85tnOKg
+
 import pygame, sys
 from configuracoes import *
 from nivel import Level
